@@ -105,7 +105,7 @@ nav ul li {
   padding: 20px 30px;
   gap: 20px;
   flex-wrap: wrap;
-  background-image: url(/assets/herobg.jpg);
+  background-image: url('assets/herobg.jpg'); 
   background-size: cover;
   background-position: center;
 
